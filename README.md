@@ -1,3 +1,4 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9xgpia9xgpia9xgp" src="https://github.com/user-attachments/assets/df0bb85c-b23b-4449-88f3-920955026b5a" />
 ParamHunter: أداة فعالة لاصطياد الثغرات (Bug Bounty)
 
 ParamHunter هي أداة Python مصممة خصيصًا لمساعدتك في تحديد الأهداف الأكثر أهمية في برامج اصطياد الثغرات (Bug Bounty) من خلال تحليل الروابط وتصنيفها بناءً على احتمالية وجود ثغرات أمنية. تهدف هذه الأداة إلى توفير الوقت والجهد من خلال تصفية الروابط غير المفيدة وتركيز جهودك على الأهداف ذات القيمة العالية.
